@@ -1,0 +1,23 @@
+{
+  "name": "one-clock-input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one-clock-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmtur/one-clock-input.git"
+  },
+  "author": "Alex <alexmartinturrillas@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmtur/one-clock-input/issues"
+  },
+  "homepage": "https://github.com/alexmtur/one-clock-input#readme",
+  "dependencies": {
+    "@alexmtur/one-class": "^3.2.6",
+    "@alexmtur/one-style": "^3.0.2"
+  }
+}
